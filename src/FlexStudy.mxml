@@ -3,14 +3,14 @@
 			   xmlns:s="library://ns.adobe.com/flex/spark" 
 			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
 	<fx:Declarations>
-		<!-- 将非可视元素（例如服务、值对象）放在此处 -->
+		<!-- 灏嗛潪鍙鍏冪礌锛堜緥濡傛湇鍔°�鍊煎璞★級鏀惧湪姝ゅ -->
 	</fx:Declarations>
 	<s:VGroup width="100%" height="100%" verticalAlign="middle" horizontalAlign="center">
-		<s:Label text="Flex交流学习！！" 
+		<s:Label text="Flex浜ゆ祦瀛︿範锛侊紒" 
 				 width="163"
 				 height="39"
 				 x="396" 
-				 verticalAlign="middle" 
+				 verticalAlign= "middle" 
 				 textAlign="center" 
 				 fontSize="19" 
 				 fontWeight="bold"
