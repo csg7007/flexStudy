@@ -13,7 +13,7 @@
 				 verticalAlign ="middle" 
 				 textAlign="center" 
 				 fontSize="19" 
-				 fontWeight="bold"
+				 fontWeight="normal"
 				 backgroundColor="#17C4D9">
 			
 		</s:Label>
